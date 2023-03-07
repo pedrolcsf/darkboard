@@ -3,19 +3,21 @@
   <strong>Darkboard</strong>
 </h2>
 
+<img src="public/img.png">
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrolcsf/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Pedro%20Ferreira-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedrolcsf/dark-board">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedrolcsf/darkboard">
   
-  <a href="https://github.com/pedrolcsf/dark-board/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrolcsf/dark-board">
+  <a href="https://github.com/pedrolcsf/darkboard/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedrolcsf/darkboard">
   </a>
   
-  <a href="https://github.com/pedrolcsf/dark-board/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrolcsf/dark-board">
+  <a href="https://github.com/pedrolcsf/darkboard/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrolcsf/darkboard">
   </a>
 </p>
 
@@ -37,7 +39,7 @@ Technologies that I used to develop this system
 
 **Clone the project and access the folder**
 ```bash
-  $ git clone https://github.com/pedrolcsf/dark-board.git
+  $ git clone https://github.com/pedrolcsf/darkboard.git
 ```
 **Follow the steps below**
 ```bash
