@@ -3,7 +3,6 @@
   <strong>Darkboard</strong>
 </h2>
 
-<img src="public/img.png">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrolcsf/">
@@ -20,6 +19,9 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/pedrolcsf/darkboard">
   </a>
 </p>
+
+<img src="public/img.png">
+
 
 ## 📃 About
 The **Darkboard** is a version dark of whiteboard the functionality of this project
